@@ -1,0 +1,2 @@
+# AzureDesigns
+Azure Blueprint repository
